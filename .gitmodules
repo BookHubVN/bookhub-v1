@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/wp-crawlflow"]
+	path = wp-content/plugins/wp-crawlflow
+	url = git@github.com:puleeno/wp-crawlflow.git
